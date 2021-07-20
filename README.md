@@ -1,3 +1,3 @@
 # Quiz 2
- FunQuiz
+ FunQuiz app - 
 This app allows you to test basic knowledge on Cricket and it is interesting to recollect some of these.
